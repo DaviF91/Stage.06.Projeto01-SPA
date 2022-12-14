@@ -1,0 +1,23 @@
+{
+  "name": "stage.06.projeto01-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviF91/Stage.06.Projeto01-SPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviF91/Stage.06.Projeto01-SPA/issues"
+  },
+  "homepage": "https://github.com/DaviF91/Stage.06.Projeto01-SPA#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
